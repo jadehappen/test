@@ -1,2 +1,3 @@
 start learn
 git remote add origin
+remote -v 
